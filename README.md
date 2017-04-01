@@ -1,14 +1,14 @@
-git checkout -b progress
+[x]git checkout -b progress
 
-git remote add jwasham https://github.com/jwasham/coding-interview-university
+[x]git remote add jwasham https://github.com/jwasham/coding-interview-university
 
-git fetch --all
+[x]git fetch --all
 
 Mark all boxes with X after you completed your changes
-git add .
+[x]git add .
 
-git commit -m "Marked x"
+[x]git commit -m "Marked x"
 
-git rebase jwasham/master
+[x]git rebase jwasham/master
 
-git push --force
+[x]git push --force
